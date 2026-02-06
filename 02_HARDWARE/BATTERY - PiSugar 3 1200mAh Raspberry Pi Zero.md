@@ -11,7 +11,7 @@
 ## Features
 - Full function **uninterruptible power supply (UPS)**
 - Bottom contact through pogo pins, so wont affect GPIO expansion
-- Can be charges with TypeC & Micro USB charging
+- Can be charged with TypeC & Micro USB charging
 - Hardware battery protection
 	- PiSugar3 provides hardware charging protection function, which effectively improves battery cycle life.
 - WebUI & APP
