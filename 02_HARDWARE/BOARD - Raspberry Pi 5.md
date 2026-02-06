@@ -16,7 +16,7 @@ The **Raspberry Pi 5** is the latest generation of Raspberry Pi boards. It featu
 	- Power button
 ---
 ## Bench Scores
-![](03%20-%20Projects/Digital%20Audio%20Player%20(DAP)/02_HARDWARE/pi5bench.png)
+![](pi5bench.png)
 
 ---
 **Operating temperatures:** 0 to 70 degrees
@@ -24,8 +24,8 @@ The **Raspberry Pi 5** is the latest generation of Raspberry Pi boards. It featu
 - Length -> $85mm$
 - Width -> $56mm$
 
-![](03%20-%20Projects/Digital%20Audio%20Player%20(DAP)/02_HARDWARE/pi5dim.png)
+![](pi5dim.png)
 
-![](03%20-%20Projects/Digital%20Audio%20Player%20(DAP)/02_HARDWARE/pi5pins.png)
+![](pi5pins.png)
 
 
